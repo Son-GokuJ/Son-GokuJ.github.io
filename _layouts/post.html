@@ -94,9 +94,15 @@ layout: default
 				</div>
 
 			</div>
-			{% if site.disqus-identifier %}
+			{% if post.comments != 0 %}
+    				{% include  disqus.html %}
+ 			{% endif %}
+			
+			
+			<!--{% if site.disqus-identifier %}
 				{% include disqus.html %}
-			{% endif %}
+			{% endif %}-->
+			
 	</article> <!-- /.post -->
 
 	<div class="col col-12 col-t-4">
