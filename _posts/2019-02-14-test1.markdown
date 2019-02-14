@@ -1,6 +1,7 @@
 ---
 layout: post
 title: test1
+date: 2019-02-14
 image: 04.jpg
 ---
 
