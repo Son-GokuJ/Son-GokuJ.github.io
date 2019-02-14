@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: under-construction.png
+image: under-construction.png 
 permalink: /about/
 ---
 # Hello World !
