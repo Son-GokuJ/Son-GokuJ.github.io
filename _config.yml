@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Son-GokuJ
-author-avatar: 09.jpg
+author-avatar: songoku-avatar.png
 
 
 #-------------------------------
@@ -23,7 +23,7 @@ author-avatar: 09.jpg
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
