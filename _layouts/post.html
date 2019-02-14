@@ -94,9 +94,7 @@ layout: default
 				</div>
 
 			</div>
-	{% if post.comment != 0 %}
-    		{% include  disqus.html %}
-	{% endif %}
+
 			
 			
 			<!--{% if site.disqus-identifier %}
@@ -104,6 +102,9 @@ layout: default
 			{% endif %}-->
 			
 	</article> <!-- /.post -->
+		{% if post.comment != 0 %}
+                  {% include  disqus.html %}
+        	{% endif %}
 
 	<div class="col col-12 col-t-4">
 		{% include sidebar.html %}
