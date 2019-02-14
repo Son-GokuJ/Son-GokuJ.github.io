@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: "42 will do"
+title: 42 will do
 description: or the Quest of finding the Answer to the Ultimate Question of Life, The Universe, and Everything
 baseurl: "/galada" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
