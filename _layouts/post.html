@@ -95,16 +95,15 @@ layout: default
 
 			</div>
 
-	{% if post.comment != 0 %}
+	<!--{% if post.comment != 0 %}
            {% include  disqus.html %}
-        {% endif %}
+        {% endif %}-->
 			
-			<!--{% if site.disqus-identifier %}
+			{% if site.disqus-identifier %}
 				{% include disqus.html %}
-			{% endif %}-->
+			{% endif %}
 			
 	</article> <!-- /.post -->
-
 
 	<div class="col col-12 col-t-4">
 		{% include sidebar.html %}
